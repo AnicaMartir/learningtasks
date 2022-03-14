@@ -1,0 +1,236 @@
+body {
+    background-image: url(bgbgb.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#mainbox {
+    width:100%;
+    height: 950px;
+    margin:0;
+    padding:0;
+}
+#mainbox h1{
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    color:#e50914;
+    font-family:fantasy;
+}
+#mainbox #firstrow {
+    height:400px;
+    width:100%;
+}
+#mainbox #secondrow {
+    width:100%;
+    height:400px;
+}
+#mainbox #firstrow .HowIMetYourMother{
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px whitesmoke;
+    margin-left: 3%;
+    margin-bottom: 1%;
+    float:left;
+    color: whitesmoke;
+    font-family: monospace;
+}
+#mainbox #firstrow .HowIMetYourMother img{
+    width:50%;
+    height:50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#mainbox #firstrow .HowIMetYourMother p {
+    font-size:14px; 
+}
+#mainbox #firstrow .Friends {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px whitesmoke;
+    margin-left: 3%;
+    margin-bottom: 1%;
+    float:left;
+    color: whitesmoke;
+    font-family: monospace;
+}
+#mainbox #firstrow .Friends img{
+    width:50%;
+    height:50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#mainbox #firstrow .Friends p {
+    font-size:14px;
+}
+#mainbox #firstrow .ModernFamily {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px whitesmoke;
+    margin-left: 3%;
+    margin-bottom: 1%;
+    float:left;
+    color: whitesmoke;
+    font-family: monospace;
+}
+#mainbox #firstrow .ModernFamily img{
+    width:50%;
+    height:50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#mainbox #firstrow .ModernFamily p {
+    font-size:14px;
+}
+#mainbox #firstrow .TheBigBangTheory {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px whitesmoke;
+    margin-left: 3%;
+    margin-bottom: 1%;
+    float:left;
+    color: whitesmoke;
+    font-family: monospace;
+}
+#mainbox #firstrow .TheBigBangTheory img{
+    width:50%;
+    height:50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#mainbox #firstrow .TheBigBangTheory p {
+    font-size:14px;
+} 
+#mainbox #firstrow .BrooklynNine-Nine {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px whitesmoke;
+    margin-left: 3%;
+    margin-bottom: 1%;
+    float:left;
+    color: whitesmoke;
+    font-family: monospace; 
+}
+#mainbox #firstrow .BrooklynNine-Nine img{
+    width:50%;
+    height:50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#mainbox #firstrow .BrooklynNine-Nine p {
+    font-size:14px;
+}
+#mainbox #secondrow .Lupin {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px whitesmoke;
+    margin-left: 3%;
+    margin-bottom: 1%;
+    float:left;
+    color: whitesmoke;
+    font-family: monospace;  
+}
+#mainbox #secondrow .Lupin img{
+    width:50%;
+    height:50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#mainbox #secondrow .Lupin p {
+    font-size:14px;
+}
+#mainbox #secondrow .KimsConvenience {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px whitesmoke;
+    margin-left: 3%;
+    margin-bottom: 1%;
+    float:left;
+    color: whitesmoke;
+    font-family: monospace; 
+}
+#mainbox #secondrow .KimsConvenience img{
+    width:50%;
+    height:50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#mainbox #secondrow .KimsConvenience p {
+    font-size:14px;
+}
+#mainbox #secondrow .Seinfeld {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px whitesmoke;
+    margin-left: 3%;
+    margin-bottom: 1%;
+    float:left;
+    color: whitesmoke;
+    font-family: monospace; 
+}
+#mainbox #secondrow .Seinfeld img{
+    width:50%;
+    height:50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#mainbox #secondrow .Seinfeld p {
+    font-size:14px;
+}
+#mainbox #secondrow .Atypical {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px whitesmoke;
+    margin-left: 3%;
+    margin-bottom: 1%;
+    float:left;
+    color: whitesmoke;
+    font-family: monospace; 
+}
+#mainbox #secondrow .Atypical img{
+    width:50%;
+    height:50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#mainbox #secondrow .Atypical p {
+    font-size:14px;
+}
+#mainbox #secondrow .EmilyinParis {
+    width:15%;
+    height:100%;
+    padding:5px;
+    border: solid 2px whitesmoke;
+    margin-left: 3%;
+    margin-bottom: 1%;
+    float:left;
+    color: whitesmoke;
+    font-family: monospace; 
+}
+#mainbox #secondrow .EmilyinParis img{
+    width:50%;
+    height:50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#mainbox #secondrow .EmilyinParis p {
+    font-size:14px;
+}
