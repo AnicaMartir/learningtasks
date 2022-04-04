@@ -1,0 +1,28 @@
+body {
+    background-image: url(bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: top center;
+}
+#main{
+    width:100%;
+    height:900px;
+}
+#main #body h3{
+    text-align: center;
+    font-family: 'Caveat', cursive;
+    color: #ede8e8;
+    font-size:45px;
+}
+#main #body h4{
+    text-align: center;
+    font-family: 'Caveat', cursive;
+    color: #ede8e8;
+    font-size:30px;
+}
+#main #body p{
+    text-align: center;
+    font-family: 'Caveat', cursive;
+    color: #ede8e8;
+    font-size:25px;
+}
